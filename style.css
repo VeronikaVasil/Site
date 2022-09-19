@@ -1,4 +1,6 @@
 h1 {
-    color: red;
-    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(63, 35, 35);
+    background-color: rgb(187, 222, 187);
 }
