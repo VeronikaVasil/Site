@@ -1,9 +1,12 @@
 .title {
     text-align: center;
     font-weight: bold;
-
 }
 
 .heading {
     color: blueviolet;
+}
+
+.text {
+    border: 1px solid black;
 }
