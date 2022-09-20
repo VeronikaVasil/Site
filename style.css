@@ -8,5 +8,22 @@
 }
 
 .text {
+    color: #153a5f;
     border: 1px solid black;
+}
+
+.photo {
+    width: 450px;
+
+}
+
+.block {
+    width: 450px;
+    height: 350px;
+    border: 1 px solid #000;
+    background-color: #ccc;
+    background-image: url(art.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75%;
 }
