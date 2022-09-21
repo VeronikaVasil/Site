@@ -1,0 +1,13 @@
+.header {
+    background: #DFDFDF;
+    border: 1px solid #B5B7BA;
+}
+
+.header_link {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
