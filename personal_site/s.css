@@ -5,7 +5,6 @@
     padding-bottom: 22px;
     display: flex;
     justify-content: space-around;
-
 }
 
 .header_link {
@@ -27,4 +26,42 @@
     color: #000000;
     margin-top: 48px;
     margin-bottom: 74px;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 34px;
+    color: #000000;
+    width: 600px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    margin-bottom: 117px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c6e1ef;
+    padding-top: 49px;
+    padding-bottom: 48px;
+    font-style: normal;
+    position: absolute;
+    position: absolute;
+    width: 2000px;
+    height: 100px;
+    left: 0px;
+    top: 714px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #464343;
 }
