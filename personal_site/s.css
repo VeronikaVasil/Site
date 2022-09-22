@@ -1,14 +1,30 @@
 .header {
     background: #DFDFDF;
     border: 1px solid #B5B7BA;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    display: flex;
+    justify-content: space-around;
+
 }
 
 .header_link {
+    text-decoration: none;
     font-style: normal;
     font-weight: 300;
     font-size: 20px;
     line-height: 23px;
     text-align: center;
     color: #000000;
-    text-decoration: none;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #000000;
+    margin-top: 48px;
+    margin-bottom: 74px;
 }
