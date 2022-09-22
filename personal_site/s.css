@@ -62,7 +62,12 @@ body {
 .product-box {
     display: flex;
     flex-wrap: wrap;
-    width: 200px;
+    gap: 30px;
+
+}
+
+.product {
+    width: 250px;
     height: 250px;
     border: 1px solid#000;
 }
