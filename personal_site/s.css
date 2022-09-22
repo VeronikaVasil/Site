@@ -4,9 +4,13 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', slab;
 }
 
+.center {
+    padding-left: calc(50% - 570px);
+    padding-right: calc(50% - 570px);
+}
 
 .header {
     background: #DFDFDF;
@@ -53,6 +57,14 @@ body {
     align-items: center;
     gap: 64px;
     margin-bottom: 117px;
+}
+
+.product-box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 250px;
+    border: 1px solid#000;
 }
 
 .footer {
